@@ -1199,5 +1199,142 @@
       "sexual",
       "insult"
     ]
+  },
+  {
+    "base": "chutiya",
+    "nepali": [
+      "चुतिया"
+    ],
+    "variants": [
+      "chutiya",
+      "chutya",
+      "chuti@a",
+      "chutiy@h",
+      "chutiy@",
+      "chutiiya"
+    ],
+    "category": [
+      "sexual",
+      "insult",
+      "extreme"
+    ]
+  },
+  {
+    "base": "bekar",
+    "nepali": [
+      "बेकार"
+    ],
+    "variants": [
+      "bekar",
+      "bekaar",
+      "bek@r",
+      "b3kar",
+      "bekarh"
+    ],
+    "category": [
+      "insult",
+      "disrespect"
+    ]
+  },
+  {
+    "base": "jhola",
+    "nepali": [
+      "झोला"
+    ],
+    "variants": [
+      "jhola",
+      "jhol@a",
+      "jho0la",
+      "jh0la",
+      "jholaa"
+    ],
+    "category": [
+      "insult",
+      "derogatory"
+    ]
+  },
+  {
+    "base": "chor",
+    "nepali": [
+      "चोर"
+    ],
+    "variants": [
+      "chor",
+      "ch0r",
+      "chohr",
+      "chhor",
+      "ch@r"
+    ],
+    "category": [
+      "insult",
+      "crime"
+    ]
+  },
+  {
+    "base": "hijada",
+    "nepali": [
+      "हिजडा"
+    ],
+    "variants": [
+      "hijada",
+      "hijjda",
+      "hij@da",
+      "h!jada",
+      "hijara"
+    ],
+    "category": [
+      "insult",
+      "derogatory"
+    ]
+  },
+  {
+    "base": "pagal",
+    "nepali": [
+      "पागल"
+    ],
+    "variants": [
+      "pagal",
+      "paagal",
+      "p@gal",
+      "p4gal",
+      "pagl"
+    ],
+    "category": [
+      "insult",
+      "mental"
+    ]
+  },
+
+  {
+    "base": "kutne",
+    "nepali": [
+      "कुट्ने"
+    ],
+    "variants": [
+      "kutne",
+      "kuttne",
+      "k@tne",
+      "k4tne",
+      "kutney"
+    ],
+    "category": [
+      "violence"
+    ]
+  },
+  {
+    "base": "latti",
+    "nepali": [
+      "लात्ती"
+    ],
+    "variants": [
+      "latti",
+      "laatti",
+      "l@tti",
+      "l4tti",
+      "lattii"
+    ],
+    "category": [
+      "violence"
+    ]
   }
 ]
