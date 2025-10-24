@@ -172,7 +172,9 @@
       "bhaaloo",
       "bh@lu",
       "b4lu",
-      "bhaloo"
+      "bhaloo",
+      "valu",
+      "v@lu"
     ],
     "category": [
       "insult",
@@ -216,7 +218,7 @@
   {
     "base": "lado",
     "nepali": [
-      "लौडो"
+      "लाडो"
     ],
     "variants": [
       "lado",
@@ -247,14 +249,17 @@
   {
     "base": "muji",
     "nepali": [
-      "मूजी"
+      "मूजी",
+      "मुजी"
     ],
     "variants": [
       "muji",
       "moojee",
       "muuji",
       "m@ji",
-      "m4ji"
+      "m4ji",
+      "muzy",
+      "muzi"
     ],
     "category": [
       "sexual",
@@ -1304,7 +1309,6 @@
       "mental"
     ]
   },
-
   {
     "base": "kutne",
     "nepali": [
@@ -1335,6 +1339,114 @@
     ],
     "category": [
       "violence"
+    ]
+  },
+  {
+    "base": "beshya",
+    "nepali": [
+      "बेश्या"
+    ],
+    "variants": [
+      "besya",
+      "beesya"
+    ],
+    "category": [
+      "sexual",
+      "disrespect"
+    ]
+  },
+  {
+    "base": "bokshi",
+    "nepali": [
+      "बोक्सी"
+    ],
+    "variants": [
+      "boksi",
+      "baksi"
+    ],
+    "category": [
+      "disrespect",
+      "insult"
+    ]
+  },
+  {
+    "base": "chaak",
+    "nepali": [
+      "चाक"
+    ],
+    "variants": [
+      "chak",
+      "chahk"
+    ],
+    "category": [
+      "disrespect",
+      "insult"
+    ]
+  },
+  {
+    "base": "Chickne",
+    "nepali": [
+      "चिक्ने"
+    ],
+    "variants": [
+      "chikne",
+      "chikney"
+    ],
+    "category": [
+      "disrespect",
+      "insult"
+    ]
+  },
+  {
+    "base": "Gula",
+    "nepali": [
+      "गुला",
+      "गूला"
+    ],
+    "variants": [
+      "goola",
+      "gulla"
+    ],
+    "category": [
+      "disrespect",
+      "sexual"
+    ]
+  },
+  {
+    "base": "moot",
+    "nepali": [
+      "मुत"
+    ],
+    "variants": [
+      "mut",
+      "muut"
+    ],
+    "category": [
+      "disrespect"
+    ]
+  },
+  {
+    "base": "murda",
+    "nepali": [
+      "मुर्दा"
+    ],
+    "variants": [
+      "muurda"
+    ],
+    "category": [
+      "disrespect"
+    ]
+  },
+  {
+    "base": "bajiya",
+    "nepali": [
+      "बजिया"
+    ],
+    "variants": [
+      "baziya"
+    ],
+    "category": [
+      "disrespect"
     ]
   }
 ]
