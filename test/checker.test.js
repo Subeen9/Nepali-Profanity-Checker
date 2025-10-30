@@ -1,6 +1,6 @@
 "use strict";
 const assert = require("assert");
-const { containsProfanity, censorProfanity } = require("../src/index.js");
+const { containsProfanity, censorProfanity } = require("../dist/index.js");
 // ---- Tests ----
 // Detects profanity
 assert.strictEqual(containsProfanity("तँ हरामी हो"), true, "Profanity should be detected");

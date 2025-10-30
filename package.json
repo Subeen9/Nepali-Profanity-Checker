@@ -1,15 +1,28 @@
 {
   "name": "nepali-profanity-checker",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-     "build": "tsc",
-    "test": "node test/checker.test.ts"
+    "build": "tsc",
+    "test": "jest",
+    "console": "npm run build && node test/console.js",
+    "prepare": "npm run build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "files": [
+    "dist",
+    "src/data",
+    "README.md"
+  ],
+  "keywords": ["nepali","profanity","filter","profanity-checker"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Subeen9/Nepali-Profanity-Checker.git"
+  },
+  "author": "Subeen9",
+  "license": "MIT",
+  "description": "Nepali profanity detection and censoring (Devanagari + romanized variants).",
+  "homepage": "https://github.com/Subeen9/Nepali-Profanity-Checker#readme",
   "devDependencies": {
     "@types/jest": "^30.0.0",
     "jest": "^30.2.0",

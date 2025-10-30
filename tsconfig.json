@@ -11,9 +11,13 @@
 
     "strict": true,
     "skipLibCheck": true,
+  "rootDir": "src",
+  "outDir": "dist",
 
     // Optional (and recommended for simplicity):
     "verbatimModuleSyntax": false,
     "isolatedModules": false
   }
+  ,
+  "include": ["src/**/*"]
 }
