@@ -13,4 +13,4 @@ assert.strictEqual(
   "Profanity should be censored"
 );
 
-console.log("✅ All CommonJS tests passed successfully!");
+console.log("All CommonJS tests passed successfully!");

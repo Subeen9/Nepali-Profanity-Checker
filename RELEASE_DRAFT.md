@@ -1,6 +1,6 @@
 # Release draft — nepali-profanity-checker v1.0.1
 
-Release date: TBD
+Release date: 10/29/2025
 
 ## Summary
 - Add Unicode normalization and diacritic removal for robust matching.

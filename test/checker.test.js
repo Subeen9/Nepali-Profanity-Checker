@@ -6,5 +6,4 @@ const { containsProfanity, censorProfanity } = require("../dist/index.js");
 assert.strictEqual(containsProfanity("तँ हरामी हो"), true, "Profanity should be detected");
 // Censors profanity
 assert.strictEqual(censorProfanity("तँ हरामी हो"), "तँ ***** हो", "Profanity should be censored");
-console.log("✅ All CommonJS tests passed successfully!");
-//# sourceMappingURL=checker.test.js.map
+console.log("All CommonJS tests passed successfully!");

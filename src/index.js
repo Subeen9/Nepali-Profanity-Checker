@@ -126,4 +126,3 @@ exports.default = {
     findProfanities,
     censorProfanity,
 };
-//# sourceMappingURL=index.js.map

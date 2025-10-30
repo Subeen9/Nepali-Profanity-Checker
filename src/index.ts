@@ -15,7 +15,7 @@ function normalizeText(s: string): string {
   if (!s) return "";
   // Unicode normalize to NFKC, lowercase, and remove diacritic marks
   // 
-  // We remove combining marks using the Unicode property \p{M}.
+  // We remove combining marks using the Unicode property
   try {
     const n = s.normalize('NFKC').toLowerCase();
     // remove diacritics / marks
@@ -26,7 +26,7 @@ function normalizeText(s: string): string {
   }
 }
 
-// Simple Levenshtein distance implementation (iterative, memory-optimized)
+// Simple Levenshtein distance implementation 
 function levenshtein(a: string, b: string): number {
   if (a === b) return 0;
   const aLen = Array.from(a).length;
