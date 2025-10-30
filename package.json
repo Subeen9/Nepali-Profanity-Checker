@@ -1,6 +1,6 @@
 {
   "name": "nepali-profanity-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -14,7 +14,12 @@
     "src/data",
     "README.md"
   ],
-  "keywords": ["nepali","profanity","filter","profanity-checker"],
+  "keywords": [
+    "nepali",
+    "profanity",
+    "filter",
+    "profanity-checker"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Subeen9/Nepali-Profanity-Checker.git"
