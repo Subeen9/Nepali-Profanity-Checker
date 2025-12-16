@@ -55,7 +55,7 @@ npm publish
 
 Add/modify words in `src/data/badword.json`. Add unit tests under `test/` and submit a PR.
 If you would like to add some profane words, please make sure it is unique than the Current List down below
-to avoid duplication.
+to avoid duplication. Please make sure to follow the json schema exactly **[shown below]** while making json data.
 
 ## Current Profane Words List
 ```bash
@@ -87,6 +87,22 @@ to avoid duplication.
   'gobre', 'bhusya',
   'dhurt', 'bhaisi, 'kamina', 'kutti', 'haramzada'
 ]
+
+```
+## Json Data Format
+Each profane word must follow the structure below.
+```bash
+{
+  "base": "kutti", # Data type is string. The canonical form of the profane word written in Roman script.
+  "nepali": ["कुत्ती"], #  Data type is string. The word written in Devanagari (Nepali/Hindi script).
+  "variants": [
+    "kutti",
+    "kuttiii",
+    "kutt1",
+    "k@tti"
+  ], # Data type for variants is string[]. Common alternative spellings, misspellings, or obfuscated forms used to bypass profanity filters.
+  "category": ["sexual", "insult"] # Data type for category is string[]. Labels describing the type of profanity. Used for filtering and severity control.
+}
 
 ```
 
