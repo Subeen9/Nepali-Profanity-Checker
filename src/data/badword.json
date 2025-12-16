@@ -1532,5 +1532,39 @@
       "body_shaming",
       "intelligence"
     ]
+  },
+   {
+    "base": "kamina",
+    "nepali": ["कमीना"],
+    "variants": [
+      "kamina",
+      "kameena",
+      "k@mina",
+      "k4mina",
+      "kam!na"
+    ],
+    "category": ["insult"]
+  },
+  {
+    "base": "kutti",
+    "nepali": ["कुत्ती"],
+    "variants": [
+      "kutti",
+      "kuttiii",
+      "kutt1",
+      "k@tti"
+    ],
+    "category": ["sexual", "insult"]
+  },
+  {
+    "base": "haramzada",
+    "nepali": ["हरामजादा"],
+    "variants": [
+      "haramzada",
+      "haramzaada",
+      "haramz@da",
+      "h4ramzada"
+    ],
+    "category": ["hate", "insult"]
   }
 ]
