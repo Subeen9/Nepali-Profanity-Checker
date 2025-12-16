@@ -54,6 +54,41 @@ npm publish
 ## Contributing
 
 Add/modify words in `src/data/badword.json`. Add unit tests under `test/` and submit a PR.
+If you would like to add some profane words, please make sure it is unique than the Current List down below
+to avoid duplication.
+
+## Current Profane Words List
+```bash
+[
+  'harami',        'murkha',     'badmas',       'saley',
+  'sali',          'kukur',      'randi',        'rande',
+  'bhate',         'bhalu',      'machikni',     'chhakka',
+  'lado',          'lauro',      'muji',         'puti',
+  'chhuchi',       'chhura',     'turi',         'geda',
+  'gu',            'gukhane',    'pakhe',        'boka',
+  'bokni',         'jantha',     'condo',        'chaak',
+  'chaak ko pwal', 'bhosdika',   'madarchod',    'bhenchod',
+  'lund',          'lodo',       'chod',         'chodna',
+  'rakhnu',        'pesa',       'gand',         'gandako',
+  'gandu',         'pesa garne', 'sungur',       'budi',
+  'budo',          'chikney',    'lundra',       'lundri',
+  'gadha',         'kutta',      'kichkich',     'thukk',
+  'nalayak',       'beijjat',    'ghrina',       'ninda',
+  'kachara',       'nikamma',    'sasto manche', 'gali',
+  'fohor',         'ghinlagdo',  'nindaniya',    'gand',
+  'gandako',       'gandu',      'chutiya',      'bekar',
+  'jhola',         'chor',       'hijada',       'pagal',
+  'kutne',         'latti',      'beshya',       'bokshi',
+  'chaak',         'Chickne',    'Gula',         'moot',
+  'murda',         'bajiya', 'khate', 'torpe',
+  'daka',  'paji',
+  'dhoti', 'radi',
+  'paad',  'mukhulla',
+  'gobre', 'bhusya',
+  'dhurt', 'bhaisi, 'kamina', 'kutti', 'haramzada'
+]
+
+```
 
 ## License
 
