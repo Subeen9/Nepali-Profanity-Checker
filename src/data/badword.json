@@ -1330,5 +1330,207 @@
     "category": [
       "disrespect"
     ]
+  },
+  {
+    "base": "khate",
+    "nepali": [
+      "खते",
+      "खाते"
+    ],
+    "variants": [
+      "khate",
+      "khaate",
+      "khatay",
+      "kh@te",
+      "khatey",
+      "kh4te"
+    ],
+    "category": [
+      "insult",
+      "classist"
+    ]
+  },
+  {
+    "base": "torpe",
+    "nepali": [
+      "तोर्पे"
+    ],
+    "variants": [
+      "torpe",
+      "torpey",
+      "t0rpe",
+      "torpay",
+      "t@rpe",
+      "torp3"
+    ],
+    "category": [
+      "insult",
+      "intelligence",
+      "slang"
+    ]
+  },
+  {
+    "base": "daka",
+    "nepali": [
+      "डाँका",
+      "डाका"
+    ],
+    "variants": [
+      "daka",
+      "daaka",
+      "d@ka",
+      "d4ka"
+    ],
+    "category": [
+      "criminal",
+      "insult"
+    ]
+  },
+  {
+    "base": "paji",
+    "nepali": [
+      "पाजी"
+    ],
+    "variants": [
+      "paji",
+      "paaji",
+      "p@ji",
+      "paj1",
+      "paj!"
+    ],
+    "category": [
+      "insult",
+      "character"
+    ]
+  },
+  {
+    "base": "dhoti",
+    "nepali": [
+      "धोती"
+    ],
+    "variants": [
+      "dhoti",
+      "dhotee",
+      "dh0ti",
+      "dhot!",
+      "dhot1"
+    ],
+    "category": [
+      "hate",
+      "racist"
+    ]
+  },
+  {
+    "base": "radi",
+    "nepali": [
+      "राडी"
+    ],
+    "variants": [
+      "radi",
+      "raadi",
+      "r@di",
+      "rad!",
+      "rad1"
+    ],
+    "category": [
+      "misogynistic",
+      "insult"
+    ]
+  },
+  {
+    "base": "paad",
+    "nepali": [
+      "पाद"
+    ],
+    "variants": [
+      "paad",
+      "pad",
+      "p@d",
+      "p4d"
+    ],
+    "category": [
+      "vulgar",
+      "body_function"
+    ]
+  },
+  {
+    "base": "mukhulla",
+    "nepali": [
+      "मुखुल्ला"
+    ],
+    "variants": [
+      "mukhulla",
+      "mukhula",
+      "mukhu11a",
+      "mukhull@"
+    ],
+    "category": [
+      "insult",
+      "character"
+    ]
+  },
+  {
+    "base": "gobre",
+    "nepali": [
+      "गोब्रे"
+    ],
+    "variants": [
+      "gobre",
+      "gobray",
+      "gobrey",
+      "g0bre"
+    ],
+    "category": [
+      "insult",
+      "dirty"
+    ]
+  },
+  {
+    "base": "bhusya",
+    "nepali": [
+      "भुस्या"
+    ],
+    "variants": [
+      "bhusya",
+      "bhusy@",
+      "bhusy4"
+    ],
+    "category": [
+      "animal",
+      "insult"
+    ]
+  },
+  {
+    "base": "dhurt",
+    "nepali": [
+      "धूर्त"
+    ],
+    "variants": [
+      "dhurt",
+      "dhurta",
+      "dhuurih",
+      "dhrt"
+    ],
+    "category": [
+      "deceit",
+      "insult"
+    ]
+  },
+  {
+    "base": "bhaisi",
+    "nepali": [
+      "भैंसी"
+    ],
+    "variants": [
+      "bhaisi",
+      "vaisi",
+      "bhais!",
+      "bhais1"
+    ],
+    "category": [
+      "animal",
+      "body_shaming",
+      "intelligence"
+    ]
   }
 ]
