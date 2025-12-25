@@ -331,6 +331,23 @@
     ]
   },
   {
+    "base": "tori",
+    "nepali": [
+      "टुरी"
+    ],
+    "variants": [
+      "tori",
+      "toori",
+      "tori",
+      "t0ri",
+      "torii"
+    ],
+    "category": [
+      "insult",
+      "derogatory"
+    ]
+  },
+  {
     "base": "geda",
     "nepali": [
       "गेडा"
